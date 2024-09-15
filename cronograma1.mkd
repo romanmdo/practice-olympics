@@ -1,0 +1,112 @@
+# Temario para 15 Días
+## Día 1-3: Fundamentos y Arreglos
+
+### Día 1:
+#### Conceptos Básicos de Arreglos:
+- Definición y declaración de arreglos.
+- Acceso y modificación de elementos.
+- Problema Práctico:
+- Suma de números pares y multiplicación de números impares.
+- Ejemplo: Código que procesa una cadena de números para sumar pares y multiplicar impares.
+
+### Día 2:
+#### Manipulación de Arreglos:
+- Iteración a través de arreglos.
+- Operaciones comunes: búsqueda, ordenación, y filtrado.
+- Problema Práctico:
+- Encontrar el máximo y mínimo en un arreglo.
+
+### Día 3:
+#### Arreglos Multidimensionales:
+- Definición y declaración.
+- Acceso a elementos y navegación en matrices.
+- Problema Práctico:
+- Inicializar y recorrer una matriz bidimensional.
+
+## Día 4-6: Funciones y Recursividad
+
+### Día 4:
+#### Funciones en C++:
+- Definición, declaración y llamada de funciones.
+- Paso de parámetros y retorno de valores.
+- Problema Práctico:
+- Escribir una función que calcule el factorial de un número.
+
+### Día 5:
+#### Recursividad:
+- Concepto y ejemplos básicos.
+- Ejemplos clásicos: factorial, secuencia de Fibonacci.
+- Problema Práctico:
+- Implementar una función recursiva para calcular la secuencia de Fibonacci.
+
+### Día 6:
+#### Recursividad Avanzada:
+Problemas más complejos como torres de Hanoi y búsqueda en estructuras de datos.
+Problema Práctico:
+Resolver el problema de las torres de Hanoi utilizando recursividad.
+Día 7-10: Estructuras de Datos Básicas
+
+### Día 7:
+#### Estructuras de Datos Básicas:
+- Conceptos de pilas y colas.
+- Implementación y uso básico.
+- Problema Práctico:
+- Implementar una pila usando arreglos o listas enlazadas.
+
+### Día 8:
+#### Listas Enlazadas:
+- Definición y operaciones básicas.
+- Implementación de listas enlazadas simples.
+- Problema Práctico:
+- Crear y manipular una lista enlazada simple.
+
+### Día 9:
+#### Listas Doblemente Enlazadas y Listas Circulares:
+- Diferencias y usos.
+- Problema Práctico:
+- Implementar una lista doblemente enlazada y realizar operaciones básicas.
+
+### Día 10:
+#### Tablas de Hash:
+- Conceptos básicos y colisiones.
+- Implementación y uso.
+- Problema Práctico:
+- Crear una tabla de hash simple y realizar inserciones y búsquedas.
+
+
+## Día 11-13: Algoritmos de Ordenación y Búsqueda
+
+### Día 11:
+#### Algoritmos de Ordenación:
+- Ordenación por burbuja, inserción, selección.
+- Problema Práctico:
+- Implementar el algoritmo de ordenación por burbuja.
+
+
+### Día 12:
+#### Ordenación Avanzada:
+- Quicksort, mergesort.
+- Problema Práctico:
+- Implementar el algoritmo de Quicksort.
+
+
+### Día 13:
+#### Algoritmos de Búsqueda:
+- Búsqueda lineal y binaria.
+- Problema Práctico:
+- Implementar búsqueda binaria en un arreglo ordenado.
+
+
+## Día 14-15: Problemas de Competencia y Repaso
+
+### Día 14:
+#### Problemas de Competencia:
+- Practicar problemas de nivel 3 como "Desalambrando la granja" y "Cubriendo una cadena".
+- Problema Práctico:
+- Resolver un problema de competencia utilizando los conceptos aprendidos.
+
+### Día 15:
+#### Repaso y Optimización:
+- Revisar problemas resueltos y optimizar soluciones.
+- Problema Práctico:
+- Revisar y mejorar código de problemas anteriores.

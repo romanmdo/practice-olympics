@@ -1,0 +1,42 @@
+# Semana 1: Fundamentos y Estructuras de Datos Básicas (11-17 de septiembre)
+## Lunes-Martes: Fundamentos de C++
+- Repaso de sintaxis básica de C++: Variables, tipos de datos, operadores, estructuras de control (if, while, for).
+- Funciones y recursión: Creación de funciones, parámetros, retorno de valores, recursión simple.
+
+## Miércoles-Jueves: Estructuras de Datos Básicas
+- Arrays y Strings: Manipulación de arreglos, operaciones básicas con cadenas de texto.
+- Vectores (STL): Uso del contenedor vector, operaciones básicas (inserción, borrado, búsqueda).
+
+## Viernes-Domingo: Algoritmos Básicos y Estructuras de Control
+- Ordenamiento: Implementación de algoritmos básicos de ordenamiento (burbuja, selección, inserción).
+- Búsqueda: Búsqueda secuencial y búsqueda binaria.
+- Estructuras condicionales y bucles: Problemas clásicos de manejo de bucles y condiciones.
+
+# Semana 2: Estructuras de Datos Avanzadas y Programación Dinámica (18-24 de septiembre)
+## Lunes-Martes: Estructuras de Datos Avanzadas
+- Pilas y Colas: Implementación y uso de pilas y colas (STL stack, queue).
+- Árboles Binarios: Implementación básica de árboles, recorrido (inorden, preorden, postorden).
+- Grafos Básicos: Representación de grafos (listas de adyacencia, matrices), DFS y BFS.
+
+## Miércoles-Jueves: Algoritmos de Programación Dinámica
+- Problemas de DP básicos: Fibonacci, caminos en una matriz, suma de subconjuntos.
+- Memoización: Implementación y ejemplos básicos.
+- Tabulación: Resolución iterativa de problemas de DP.
+
+## Viernes-Domingo: Algoritmos de Optimización y Greedy
+- Algoritmos Greedy: Problemas como el cambio de monedas, intervalos.
+- Optimización combinatoria: Introducción a branch and bound, backtracking.
+
+# Semana 3: Algoritmos de Grafos y Geometría Computacional (25-28 de septiembre)
+## Lunes-Martes: Algoritmos de Grafos Avanzados
+- Árboles generadores mínimos: Algoritmos de Kruskal y Prim.
+- Caminos más cortos: Algoritmos de Dijkstra, Bellman-Ford.
+- Flujo máximo: Ford-Fulkerson, Edmonds-Karp.
+
+## Miércoles-Jueves: Geometría Computacional y Cadenas de Texto
+- Geometría Computacional: Convex hull, intersección de segmentos.
+- Cadenas de Texto: Algoritmos de búsqueda de patrones (KMP, Z), Suffix arrays.
+
+## Viernes: Repaso y Práctica de Exámenes
+-Simulacros de competencia: Resuelve problemas de ediciones anteriores de la OIA o problemas similares en plataformas de  programación.
+- Revisión y ajuste: Identifica tus puntos débiles y repasa los temas que necesiten refuerzo.
