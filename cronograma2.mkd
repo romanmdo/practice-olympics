@@ -38,5 +38,5 @@
 - Cadenas de Texto: Algoritmos de búsqueda de patrones (KMP, Z), Suffix arrays.
 
 ## Viernes: Repaso y Práctica de Exámenes
--Simulacros de competencia: Resuelve problemas de ediciones anteriores de la OIA o problemas similares en plataformas de  programación.
+- Simulacros de competencia: Resuelve problemas de ediciones anteriores de la OIA o problemas similares en plataformas de  programación.
 - Revisión y ajuste: Identifica tus puntos débiles y repasa los temas que necesiten refuerzo.
