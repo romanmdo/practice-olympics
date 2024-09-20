@@ -4,8 +4,6 @@ def arreglos():
     for i in enumerate(arr):
         print(i)
 
-
-
 if __name__ == '__main__':
     arreglos()
 
